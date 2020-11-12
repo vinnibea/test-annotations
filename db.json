@@ -1,0 +1,31 @@
+{
+  "annotations": [
+    {
+      "id": 1,
+      "author": "Josh Dun",
+      "comment": "Please remove this image from the slide.",
+      "pos": {
+        "x": 0.609,
+        "y": 0.6401
+      }
+    },
+    {
+      "id": 2,
+      "author": "Marie Ruecker",
+      "comment": "It doesn't look that good, please put some more creativeness into this.",
+      "pos": {
+        "x": 0.0387,
+        "y": 0.1453
+      }
+    },
+    {
+      "id": 3,
+      "author": "Stephen Huels",
+      "comment": "Please change the color to red.",
+      "pos": {
+        "x": 0.1314,
+        "y": 0.3719
+      }
+    }
+  ]
+}
