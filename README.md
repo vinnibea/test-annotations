@@ -42,13 +42,15 @@ y = top offset / height
 
 ### Requirements
 
-- The required stack: React, SCSS. Other tools are optional. Please follow best practices as much as possible and focus on quality.
+- The required stack: React, SCSS. Other tools are up to you
 - Create a markup according to the mockup, the layout should be responsive
-- If you resize/zoom the browser tab, annotations should stay on same places on the image
 - Implement the possibility to create annotations on the image
     - Send a request to `POST v1/annotations` when submitting new annotation
     - Implement the possibility to delete an annotation via `DELETE v1/annotations/{id}`
+- If you resize/zoom the browser tab, annotations should stay on same places on the image
 - Preload a default image on initialization and render annotations from `GET v1/annotations`
+- No unnecessary things in the final code like commented code, debug logs, etc
+- Follow best practices as much as possible and focus on quality
 
 ### Any questions?
 
