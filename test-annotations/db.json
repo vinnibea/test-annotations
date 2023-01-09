@@ -1,0 +1,103 @@
+{
+  "annotations": [
+    {
+      "pos": {
+        "x": 0.7283950617283951,
+        "y": 568
+      },
+      "comment": "vcvvc",
+      "id": 82,
+      "author": "Josh Dun"
+    },
+    {
+      "pos": {
+        "x": 0.6577181208053692,
+        "y": 360
+      },
+      "comment": "cvcvcvc",
+      "id": 65,
+      "author": "Josh Dun"
+    },
+    {
+      "pos": {
+        "x": 0.709731543624161,
+        "y": 251
+      },
+      "comment": "cvvcvc",
+      "id": 16,
+      "author": "Josh Dun"
+    },
+    {
+      "pos": {
+        "x": 0.3087248322147651,
+        "y": 235
+      },
+      "comment": "vcvvcvc",
+      "id": 83,
+      "author": "Josh Dun"
+    },
+    {
+      "pos": {
+        "x": 0.7013422818791947,
+        "y": 483
+      },
+      "comment": "cvvccv",
+      "id": 23,
+      "author": "Josh Dun"
+    },
+    {
+      "pos": {
+        "x": 0.4429530201342282,
+        "y": 468
+      },
+      "comment": "cxxcx",
+      "id": 13,
+      "author": "Josh Dun"
+    },
+    {
+      "pos": {
+        "x": 0.2962962962962963,
+        "y": 477
+      },
+      "comment": "xxc",
+      "id": 15,
+      "author": "Josh Dun"
+    },
+    {
+      "pos": {
+        "x": 0.30246913580246915,
+        "y": 428
+      },
+      "comment": "cxcvc",
+      "id": 78,
+      "author": "Josh Dun"
+    },
+    {
+      "pos": {
+        "x": 0.35185185185185186,
+        "y": 548
+      },
+      "comment": "cvcvcvvc",
+      "id": 59,
+      "author": "Josh Dun"
+    },
+    {
+      "pos": {
+        "x": 0.21450617283950618,
+        "y": 571
+      },
+      "comment": "xcxc",
+      "id": 96,
+      "author": "Josh Dun"
+    },
+    {
+      "pos": {
+        "x": 0.9555369127516778,
+        "y": 603
+      },
+      "comment": "xcxcx",
+      "id": 44,
+      "author": "Josh Dun"
+    }
+  ]
+}

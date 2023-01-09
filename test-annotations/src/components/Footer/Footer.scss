@@ -1,0 +1,33 @@
+.App-footer {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+
+  color: #909090;
+
+  mix-blend-mode: normal;
+}
+.App-guide {
+  display: flex;
+  padding: 40px 0 20px;
+}
+
+.App-icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  margin: 0 8px;
+  transform: translateY(25%);
+  &--mouse {
+    background-image: url("../../img/mouse\ \(1\).svg");
+  }
+
+  &--plus {
+    background-image: url("../../img/mouse\ \(2\).svg");
+  }
+}
